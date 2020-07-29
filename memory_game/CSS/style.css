@@ -31,10 +31,10 @@ body{
 }
 main {
 	width: 850px;
-	margin: 35 auto;
+	margin: 35px auto;
 }
 img {
-	margin: 40px 8px 0 8px;
+	margin: 40px 8px 10px 8px;
 }
 footer {
 	text-transform: uppercase;
